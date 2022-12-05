@@ -4,7 +4,7 @@
 
 >Proyecto de Search  para el uso de hooks de useMemo.
 
-<img src='./src/assets/playground.png' with='200px'>
+<img src='./src/assets/playground.PNG' with='200px'>
 
 
 
