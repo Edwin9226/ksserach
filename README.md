@@ -29,7 +29,7 @@
 ### Command
 - `crear una carpeta react en documentos donde clonaremos nuestro proyecto`
 -` dentro de la dirección de la carpeta react ejemplo C:\Users\NombreUsuario\Documents\Kruger\react creada abrimos una linea de comandos CMD `
-- `ejecutamos el comando git clone `
+- `ejecutamos el comando git clone https://github.com/Edwin9226/ksserach.git `
 - `npm install` 
 - `npm start`
 - `navegador en la barra pegamos localhost:3000`
